@@ -1,0 +1,28 @@
+{
+  "agent_name": "BasicAgent",
+  "model": "gpt-4o-mini",
+  "version": "1.0.0",
+  "timestamp": "2025-02-15T10:32:00Z",
+  "tasks_completed": 3,
+  "tasks": [
+    {
+      "task_id": 1,
+      "input": "What is AI?",
+      "output": "Artificial intelligence is the simulation of human intelligence in machines.",
+      "response_time_ms": 280
+    },
+    {
+      "task_id": 2,
+      "input": "List two fruits.",
+      "output": ["Apple", "Banana"],
+      "response_time_ms": 190
+    },
+    {
+      "task_id": 3,
+      "input": "Translate: 'Hello' to Spanish.",
+      "output": "Hola",
+      "response_time_ms": 160
+    }
+  ],
+  "overall_score": 0.75
+}
