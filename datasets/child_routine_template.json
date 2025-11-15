@@ -1,0 +1,9 @@
+{
+    "recommended": {
+        "wake_time": "7:30 AM",
+        "nap_start": "1:30 PM",
+        "nap_end": "3:00 PM",
+        "play_time": "6:00 PM \u2013 7:00 PM",
+        "sleep_time": "9:00 PM"
+    }
+}
