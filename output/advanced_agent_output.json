@@ -1,0 +1,47 @@
+{
+  "agent_name": "AdvancedAgent",
+  "model": "gpt-4o-mini",
+  "version": "1.0.0",
+  "timestamp": "2025-02-15T10:30:00Z",
+  "tasks_completed": 5,
+  "tasks": [
+    {
+      "task_id": 1,
+      "input": "Summarize the benefits of machine learning.",
+      "output": "Machine learning enables automated pattern recognition, improves decision-making, and scales efficiently with large datasets.",
+      "response_time_ms": 420
+    },
+    {
+      "task_id": 2,
+      "input": "Generate three business ideas using AI.",
+      "output": [
+        "AI-powered retail demand forecasting.",
+        "Voice-based medical symptom analyzer.",
+        "Personalized learning tutor using reinforcement learning."
+      ],
+      "response_time_ms": 610
+    },
+    {
+      "task_id": 3,
+      "input": "Analyze this text sentiment: 'I love this product!'",
+      "output": {
+        "sentiment": "positive",
+        "confidence": 0.97
+      },
+      "response_time_ms": 388
+    },
+    {
+      "task_id": 4,
+      "input": "Write Python code for linear regression.",
+      "output": "import numpy as np\nfrom sklearn.linear_model import LinearRegression\nmodel = LinearRegression()",
+      "response_time_ms": 501
+    },
+    {
+      "task_id": 5,
+      "input": "Explain reinforcement learning in two sentences.",
+      "output": "Reinforcement learning is a training method where agents learn by interacting with an environment and receiving rewards. The agent improves by choosing actions that maximize cumulative reward.",
+      "response_time_ms": 435
+    }
+  ],
+  "overall_score": 0.92
+}
